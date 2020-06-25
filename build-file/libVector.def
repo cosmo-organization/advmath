@@ -1,0 +1,37 @@
+EXPORTS
+    _Zmi8Vector2dS_ = _Zmi8Vector2dS_@32 @1
+    _Zmi8Vector2dS_@32 @2
+    _Zmi8Vector2fS_ = _Zmi8Vector2fS_@16 @3
+    _Zmi8Vector2fS_@16 @4
+    _Zmi8Vector2iS_ = _Zmi8Vector2iS_@16 @5
+    _Zmi8Vector2iS_@16 @6
+    _Zmi8Vector3dS_ = _Zmi8Vector3dS_@48 @7
+    _Zmi8Vector3dS_@48 @8
+    _Zmi8Vector3fS_ = _Zmi8Vector3fS_@24 @9
+    _Zmi8Vector3fS_@24 @10
+    _Zmi8Vector3iS_ = _Zmi8Vector3iS_@24 @11
+    _Zmi8Vector3iS_@24 @12
+    _Zml8Vector2dS_ = _Zml8Vector2dS_@32 @13
+    _Zml8Vector2dS_@32 @14
+    _Zml8Vector2fS_ = _Zml8Vector2fS_@16 @15
+    _Zml8Vector2fS_@16 @16
+    _Zml8Vector2iS_ = _Zml8Vector2iS_@16 @17
+    _Zml8Vector2iS_@16 @18
+    _Zml8Vector3dS_ = _Zml8Vector3dS_@48 @19
+    _Zml8Vector3dS_@48 @20
+    _Zml8Vector3fS_ = _Zml8Vector3fS_@24 @21
+    _Zml8Vector3fS_@24 @22
+    _Zml8Vector3iS_ = _Zml8Vector3iS_@24 @23
+    _Zml8Vector3iS_@24 @24
+    _Zpl8Vector2dS_ = _Zpl8Vector2dS_@32 @25
+    _Zpl8Vector2dS_@32 @26
+    _Zpl8Vector2fS_ = _Zpl8Vector2fS_@16 @27
+    _Zpl8Vector2fS_@16 @28
+    _Zpl8Vector2iS_ = _Zpl8Vector2iS_@16 @29
+    _Zpl8Vector2iS_@16 @30
+    _Zpl8Vector3dS_ = _Zpl8Vector3dS_@48 @31
+    _Zpl8Vector3dS_@48 @32
+    _Zpl8Vector3fS_ = _Zpl8Vector3fS_@24 @33
+    _Zpl8Vector3fS_@24 @34
+    _Zpl8Vector3iS_ = _Zpl8Vector3iS_@24 @35
+    _Zpl8Vector3iS_@24 @36
