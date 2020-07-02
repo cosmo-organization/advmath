@@ -1,3 +1,6 @@
+/*
+*Author Sonu Aryan
+*/
 #ifndef VECMATH_H
 #define VECMATH_H
 #include "vectors.h"
@@ -31,5 +34,14 @@ extern "C++"{
   	Vector3i VECTOR_API VECTOR_CALL operator+(Vector3i,Vector3i);
   	Vector3i VECTOR_API VECTOR_CALL operator-(Vector3i,Vector3i);
   	Vector3i VECTOR_API VECTOR_CALL operator*(Vector3i,Vector3i);
+  	
+  	float VECTOR_API VECTOR_CALL distance(Vector2f,Vector2f);
+  	float VECTOR_API VECTOR_CALL distance(Vector3f,Vector3f);
+  	
+  	double VECTOR_API VECTOR_CALL distance(Vector2d,Vector2d);
+  	double VECTOR_API VECTOR_CALL distance(Vector3d,Vector3d);
+  	
+  	int VECTOR_API VECTOR_CALL distance(Vector2i,Vector2i);
+  	int VECTOR_API VECTOR_CALL distance(Vector3i,Vector3i);
 };
 #endif

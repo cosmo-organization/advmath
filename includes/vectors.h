@@ -1,5 +1,8 @@
 #ifndef VECTOR_H
 #define VECTOR_H
+/*
+*Author Sonu Aryan
+*/
 struct Vector2f{float x,y;};
 struct Vector3f{float x,y,z;};
 struct Vector2d{double x,y;};
